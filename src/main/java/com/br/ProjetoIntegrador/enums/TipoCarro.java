@@ -1,6 +1,7 @@
 package com.br.ProjetoIntegrador.enums;
 
 public enum TipoCarro {
+<<<<<<< HEAD
     HIBRIDO("Tanto movido por gasolina quanto etanol"),
     GASOLINA("Movido à gasolina."),
     ETANOL("Movido à etanol");
@@ -16,3 +17,6 @@ public enum TipoCarro {
     }
 }
 
+=======
+}
+>>>>>>> ffe3fcaa6d3ac4df9c0b23da6dfe499fb8b5e90d

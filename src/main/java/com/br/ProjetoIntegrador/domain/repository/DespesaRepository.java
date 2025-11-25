@@ -1,5 +1,6 @@
 package com.br.ProjetoIntegrador.domain.repository;
 
+<<<<<<< HEAD
 import com.br.ProjetoIntegrador.domain.entity.Carro;
 import java.util.Date;
 import java.util.Optional;
@@ -24,3 +25,7 @@ public interface DespesaRepository {
 
         boolean existsByStatusManutencao (String statusManutencao);
     }
+=======
+public interface DespesaRepository {
+}
+>>>>>>> ffe3fcaa6d3ac4df9c0b23da6dfe499fb8b5e90d
